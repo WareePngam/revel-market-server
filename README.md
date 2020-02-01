@@ -1,2 +1,2 @@
 # revel-market-server
- ReactServer
+ revel-market-server
